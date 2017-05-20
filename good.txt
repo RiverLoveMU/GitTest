@@ -2,4 +2,8 @@ first change
 second change
 third change
 fourth change
-branch change bigchange
+<<<<<<< HEAD
+branch change change
+=======
+branch change change
+>>>>>>> first
